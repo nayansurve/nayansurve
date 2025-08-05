@@ -6,8 +6,8 @@
 📚 I am a quick learner, team player, and always excited to explore new technologies.  
 🎯 An aspiring IT professional focused on becoming a reliable solution provider through technology
 💡 Enjoy building practical projects that solve real-life problems
-📚 Learning: C, C++, C#, Java, Node.js, Python, React
-✨ Driven by curiosity, creativity, and a love for clean, efficient code
+ 📚 Learning: C, C++, C#, Java, Node.js, Python, React,salesforce cloud
+ ✨ Driven by curiosity, creativity, and a love for clean, efficient code
 
 ---
 
