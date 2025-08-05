@@ -1,13 +1,17 @@
 # 👋 Hello, I'm Naina Surve
 
 ## 🧾 About Me
+
+Hi, I’m Naina Surve 👋  
+
 🎓 I am currently pursuing my Bachelor of Technology in Information Technology.  
 💻 I am passionate about software development, backend technologies, and building efficient, scalable applications.  
-📚 I am a quick learner, team player, and always excited to explore new technologies.  
-🎯 An aspiring IT professional focused on becoming a reliable solution provider through technology
-💡 Enjoy building practical projects that solve real-life problems
- 📚 Learning: C, C++, C#, Java, Node.js, Python, React,salesforce cloud
- ✨ Driven by curiosity, creativity, and a love for clean, efficient code
+🤝 I am a quick learner, team player, and always excited to explore new technologies.  
+🎯 An aspiring IT professional focused on becoming a reliable solution provider through technology.  
+💡 Enjoy building practical projects that solve real-life problems.  
+🛠️ Technologies I am working with: Java, C, C++, C#, Node.js, Python, React, Spring Boot, SQL, MongoDB  
+☁️ Also learning and building on: Salesforce Cloud  
+✨ Driven by curiosity, creativity, and a love for clean, efficient code.  
 
 ---
 
