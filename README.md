@@ -2,7 +2,7 @@
 
 ## 🧾 About Me
 
-Hi, I’m Naina Surve 👋  
+Hi, I’m Nayan Surve 👋  
 
 🎓 I am currently pursuing my Bachelor of Technology in Information Technology.  
 💻 I am passionate about software development, backend technologies, and building efficient, scalable applications.  
