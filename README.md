@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Naina Surve
+# 👋 Hello, I'm Nayan Surve
 
 ## 🧾 About Me
 
