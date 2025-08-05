@@ -60,13 +60,17 @@ Hi, I’m Naina Surve 👋
 ## 📊 GitHub Stats
 
 ![Naina's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nayansurve&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nayansurve&layout=compact&theme=radical)
 
-##🔥 GitHub Streak Stats
-[![GitHub Streak](https://streak-stats.demolab.com?user=nayansurve&theme=radical&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+## 👀 Most Used Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nayansurve&layout=compact&theme=radical)
+
+## 🔥 GitHub Streak Stats
+
+![GitHub Streak Stats](https://streak-stats.demolab.com?user=nayansurve&theme=radical&date_format=M%20j%5B%2C%20Y%5D)
 
 
----
+
 
 
 ## 📫 Connect With Me
