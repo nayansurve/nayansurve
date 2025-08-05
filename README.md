@@ -34,6 +34,7 @@
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
 ![XAMPP](https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white)
+![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
 
 ### 🗄️ Databases
 
@@ -57,12 +58,27 @@
 ![Naina's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nayansurve&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nayansurve&layout=compact&theme=radical)
 
+##🔥 GitHub Streak Stats
+[![GitHub Streak](https://streak-stats.demolab.com?user=nayansurve&theme=radical&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
+
 ---
 
-## 📫 Connect With Me:
 
-- [LinkedIn](https://www.linkedin.com/in/nayan-surve)
-- [GitHub](https://github.com/nayansurve)
+## 📫 Connect With Me
+
+- 📧 Email: [your-email@gmail.com](mailto:survenayn870@gmail.com)
+- 💼 LinkedIn: [https://www.linkedin.com/in/nayan-surve](https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME)
+
+---
+
+> “The best way to predict the future is to create it.” – *Peter Drucker*
+
+---
+
+✨ Thanks for visiting! Feel free to explore my repositories and connect with me.
+
+
 
 
 
